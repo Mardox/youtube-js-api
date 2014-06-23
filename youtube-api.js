@@ -17,7 +17,7 @@
         this.query = query;
         this.query_type = query_type;
         this.duration = duration;
-        this.start_index = startindex;
+        this.start_index = start_index;
         this.max_results = max_results;
     };
 
