@@ -26,3 +26,5 @@ duration : could be short, medium or long
 start_index : the start index for the result list
 
 max_results : it could be set up to 50 results per call
+
+callback : the function which will handle the call results
